@@ -269,10 +269,30 @@ Each page gets its own output directory. The Figma API cache is shared.
 └── package.json
 ```
 
+## Don't want to do it yourself?
+
+We also offer this as a done-for-you service. Send us your Figma file, we deliver a fully configured Avada site.
+
+**[Request a conversion →](https://megify.ai/figma-to-avada/)**
+
+Pricing starts at €299 for a full page. Includes responsive configuration and WordPress deployment.
+
+## Don't use Avada?
+
+If you don't use Avada, you might be interested in these:
+
+- **[AI Website Generator](https://megify.ai/sito-web-ai/)** — Generate a complete WordPress site from a text description. No Figma needed.
+- **[AI Ecommerce Generator](https://megify.ai/ecommerce-ai/)** — Generate a WooCommerce store with products, payments and shipping configured.
+- **[WordPress vs Wix vs Squarespace](https://megify.ai/wordpress-vs-wix-vs-squarespace/)** — Technical comparison of the major platforms in 2026.
+- **[How Much Does a WordPress Site Cost](https://megify.ai/quanto-costa-sito-wordpress/)** — Real pricing breakdown: DIY vs freelancer vs agency vs AI.
+- **[AI Business Launcher](https://megify.ai/business-launcher/)** — Find your niche and generate a business blueprint with AI.
+
 ---
 
-Built by [Megify](https://megify.ai)
+## About
+
+Built by the team behind [Megify](https://megify.ai) — an AI platform that generates [WordPress sites](https://megify.ai/sito-wordpress-ai/) and [ecommerce stores](https://megify.ai/ecommerce-ai/) from text descriptions. Based in Italy.
 
 ## License
 
-MIT
+MIT — use it however you want.
