@@ -1,0 +1,20 @@
+{
+  "name": "avada-generatore",
+  "version": "1.0.0",
+  "description": "Pipeline Figma → Avada Fusion Builder shortcodes",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "fetch": "node src/index.js",
+    "sync-ids": "node src/sync-wp-ids.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "node-fetch": "^2.7.0",
+    "sharp": "^0.33.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

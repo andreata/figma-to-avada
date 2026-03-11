@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# Output (generated per-project)
+output/*/
+output/cache/
+output/brief/
+output/images/
+output/json/
+output/shortcode/
+
+# Input files (user-specific)
+input/pdf/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Misc
+*.log
+progetto.md
+avada.shortcode
